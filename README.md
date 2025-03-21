@@ -1,1 +1,1 @@
-# Different types of loop in shell script.
+# Different types of loops in shell script.
